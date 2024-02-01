@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pemesanan E'Concert", "Pemesanan E'Concert\Pemesanan E'Concert.csproj", "{CDD899DE-1C67-4DCD-B185-08649CADD74F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD899DE-1C67-4DCD-B185-08649CADD74F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD899DE-1C67-4DCD-B185-08649CADD74F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD899DE-1C67-4DCD-B185-08649CADD74F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD899DE-1C67-4DCD-B185-08649CADD74F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {929675E3-D71E-4670-B8E9-5C17191D9ACE}
+	EndGlobalSection
+EndGlobal

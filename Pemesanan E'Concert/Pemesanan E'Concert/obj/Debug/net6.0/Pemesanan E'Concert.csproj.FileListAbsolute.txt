@@ -1,0 +1,30 @@
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.exe
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.deps.json
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.runtimeconfig.json
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.dll
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.pdb
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.csproj.AssemblyReference.cache
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.GeneratedMSBuildEditorConfig.editorconfig
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.AssemblyInfoInputs.cache
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.AssemblyInfo.cs
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.csproj.CoreCompileInputs.cache
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.dll
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\refint\Pemesanan E'Concert.dll
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.pdb
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.genruntimeconfig.cache
+D:\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\ref\Pemesanan E'Concert.dll
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.exe
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.deps.json
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.runtimeconfig.json
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.dll
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\bin\Debug\net6.0\Pemesanan E'Concert.pdb
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.csproj.AssemblyReference.cache
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.GeneratedMSBuildEditorConfig.editorconfig
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.AssemblyInfoInputs.cache
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.AssemblyInfo.cs
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.csproj.CoreCompileInputs.cache
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.dll
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\refint\Pemesanan E'Concert.dll
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.pdb
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\Pemesanan E'Concert.genruntimeconfig.cache
+D:\KUMPULAN TUGAS X\_DPK_A\Pemesanan E'Concert\Pemesanan E'Concert\obj\Debug\net6.0\ref\Pemesanan E'Concert.dll
